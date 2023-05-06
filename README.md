@@ -1,2 +1,12 @@
-# Carnivorous-Plants
-well that was hard! i hope i did it right!!!
+
+# Carnivorous Plants
+
+
+My first ever website, with basic facts about Carnivorous Plants.
+
+
+# Carnivorous Plants
+
+
+My first ever website, with basic facts about Carnivorous Plants.
+
